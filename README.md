@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sergey-a11
-- 👀 I’m interested in web and app development
-- 🌱 I’m currently learning C
+- 👀 I’m interested in data analysis
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me 
 sergeykurbakov@icloud.com
